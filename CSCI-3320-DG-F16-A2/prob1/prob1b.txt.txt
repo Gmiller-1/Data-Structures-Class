@@ -1,0 +1,2 @@
+The Program take N-1 passes to calculate the winner.  M has no bearing on how many passes it takes, since there are N # of 
+people and 1 person must be remaining to be the winner, and 1 person gets eliminated each time.

@@ -1,0 +1,2 @@
+When the maximum number in the input is very large the larger bucket size performs better 
+time-wise due to it moving through two digits at a time.
